@@ -1,7 +1,6 @@
 package java_training_bldea;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class Anagram {
 
@@ -27,8 +26,7 @@ public class Anagram {
 				System.out.println("not Anagarm");
 			}
 			
-		
-		// TODO Auto-generated method stub
+
 
 	}
 
